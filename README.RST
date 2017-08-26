@@ -9,6 +9,7 @@ The most important line:
 
 
 Pac file has three types of proxy ways.
-1. `"SOCKS ip:port;"`  use socks protocol
-2. `"PROXY ip:prot;"`  use http protocol
-3. `"DIRECT;"` means view urls directly
+
+1. **"SOCKS ip:port;"**  use socks protocol
+#. **"PROXY ip:prot;"**  use http protocol
+3. **"DIRECT;"** means view urls directly
